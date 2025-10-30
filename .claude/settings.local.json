@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(find:*)",
-      "Bash(tree:*)"
+      "Bash(tree:*)",
+      "mcp__XcodeBuildMCP__list_sims",
+      "mcp__XcodeBuildMCP__build_run_sim"
     ],
     "deny": [],
     "ask": []
